@@ -247,8 +247,8 @@ streamlit run app.py
 Criado automaticamente na inicialização do banco:
 
 ```
-Login: cmt
-Senha: Mh193#
+Login: mestre
+Senha: mestre
 Perfil: COMANDO
 ```
 
