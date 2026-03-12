@@ -1,4 +1,4 @@
-# 🚒 Sistema de Checklist de EPI – Corpo de Bombeiros
+# 🚒 Sistema de Checklist de EPI 
 
 Sistema desenvolvido para **controle operacional de conferência de Equipamentos de Proteção Individual (EPI)** em quartel, com fluxo de verificação entre **Bombeiro → Chefe → Comando**.
 
